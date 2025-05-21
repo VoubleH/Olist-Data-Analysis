@@ -1,4 +1,4 @@
-# Olist-Data-Analysis
+# Olist_Data_Analysis
 This project aims to analyze Olist's 2017 sales data and provide insights for the business.
 
 ## 📌 Overview
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 2. Open the notebook:
 ```bash
-jupyter notebook notebook/Olist-Data-Analysis.ipynb
+jupyter notebook notebook/Olist_Data_Analysis.ipynb
 ```
 
 ## 🛠️ Analysis
